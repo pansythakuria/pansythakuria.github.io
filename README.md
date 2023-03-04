@@ -42,8 +42,8 @@
 				<li><p><a href="https://turbohire.co/resources/industry-reports/guide-to-virtual-candidate-assessment-in-2022/" target="_blank">Guide to Virtual Candidate Assessment, 2022</a></p></li>
 				<li><p><a href="https://turbohire.co/resources/industry-reports/top-5-use-cases-in-recruitment-automation/" target="_blank">Top 5 Use Cases of Recruitment Automation</a></p></li>
 			</ul>
-			<h4>HR Toolkit</h4><br>
-			<p>A toolkit containing diverse and customizable templates of company policies, HR mails, interview questions, survey questionnaires, interview mails, hiring mails, etc. <br> Organized, managed, and written by me. <a href="https://turbohire.co/hr-toolkit/" target="_blank">Check it out.</a></p>
+			<h4>HR Toolkit</h4>
+			<p>A toolkit containing diverse and customizable templates of company policies, HR mails, interview questions, survey questionnaires, interview mails, hiring mails, etc. Organized, managed, and written by me. <a href="https://turbohire.co/hr-toolkit/" target="_blank">Check it out.</a></p>
 		</section>
 		<section id="contact">
 			<h2>Contact Me</h2>
