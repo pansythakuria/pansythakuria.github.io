@@ -28,7 +28,6 @@
 			<h2>Work Experience</h2>
 			<h3>TurboHire</h3>
 				<p>B2B | SaaS | An AI-powered recruitment automation and applicant tracking platform</p>
-				<br>
 			<h4>Best Blogs</h4>
 			<ul>
 				<li><p><a href="https://turbohire.co/resources/blog/step-by-step-guide-to-boolean-search-in-candidate-discovery-of-hiring/" target="_blank">Boolean Search in Recruitment</a></p></li>
@@ -36,16 +35,15 @@
 				<li><p><a href="https://turbohire.co/resources/blog/what-is-automated-one-way-interview-how-to-automate-interviews/" target="_blank">Automated One-Way Interview in Hiring</a></p></li>
 				<li><p><a href="https://turbohire.co/resources/author/pansy/" target="_blank">View other blogs</a></p></li>
 			</ul>
+			<h4>Industry Reports</h4>
+			<p>Industry report webpage copy | Report content structing, writing, and research</p>
 			<ul>
-				<li>
-					<h3>Project 2</h3>
-					<p>Insert a brief description of your project here.</p>
-				</li>
-				<li>
-					<h3>Project 3</h3>
-					<p>Insert a brief description of your project here.</p>
-				</li>
+				<li><p><a href="https://turbohire.co/resources/industry-reports/the-present-of-hiring/" target="_blank">Global Recruitment Industry Report 2022</a></p></li>
+				<li><p><a href="https://turbohire.co/resources/industry-reports/guide-to-virtual-candidate-assessment-in-2022/" target="_blank">Guide to Virtual Candidate Assessment, 2022</a></p></li>
+				<li><p><a href="https://turbohire.co/resources/industry-reports/top-5-use-cases-in-recruitment-automation/" target="_blank">Top 5 Use Cases of Recruitment Automation</a></p></li>
 			</ul>
+			<h4>HR Toolkit</h4><br>
+			<p>A toolkit containing diverse and customizable templates of company policies, HR mails, interview questions, survey questionnaires, interview mails, hiring mails, etc. <br> Organized, managed, and written by me. <a href="https://turbohire.co/hr-toolkit/" target="_blank">Check it out.</a></p>
 		</section>
 		<section id="contact">
 			<h2>Contact Me</h2>
