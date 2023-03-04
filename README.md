@@ -10,7 +10,7 @@
 		<h1>Hi, I'm Pansy.</h1>
 		<nav>
 			<ul>
-				<li>Scroll through the sections:</li>
+				<p>Scroll through the sections:</p>
 				<br>
 				<li><a href="#about">About</a></li>
 				<li><a href="#projects">Projects</a></li>
