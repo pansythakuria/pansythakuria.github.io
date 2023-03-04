@@ -2,6 +2,15 @@
 <head>
 	<title>Pansy's Portfolio</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<style>
+#myDIV {
+  width: 100%;
+  padding: 50px 0;
+  text-align: center;
+  background-color: lightblue;
+  margin-top: 20px;
+}
+</style>
 	<link rel="stylesheet" href="style.css">
 </head>
 <body>
