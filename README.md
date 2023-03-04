@@ -20,8 +20,10 @@
 	</header>
 	<main>
 		<section id="about">
-			<h2>About Me</h2>
-			<p>Insert a brief introduction about yourself here.</p>
+			<h2>About me</h2>
+			<p>I'm an <mark>engineer turned marketer</mark> with 2+ years of experience. With a lust for articulating my knowledge, I dove into the world of content. Writing has always been an escape in this overachieving world. My journey of writing began as I started freelancing during the pandemic and eversince, I have grown into a full-fledged content marketer.</p>
+			<br>
+			<p>If you're looking for well-researched and converting content, we can work together to create the story of your brand. With the incoming of AI language models like ChatGPT, the demand for quality content rises. Especially, those that Google favors. 
 		</section>
 		<section id="projects">
 			<h2>Projects</h2>
