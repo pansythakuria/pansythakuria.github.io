@@ -47,8 +47,9 @@
 			</ul>
 			<h4>HR Toolkit</h4>
 			<p>A toolkit containing diverse and customizable templates of company policies, HR mails, interview questions, survey questionnaires, interview mails, hiring mails, etc. Organized, managed, and written by me. <a href="https://turbohire.co/hr-toolkit/" target="_blank">Check it out.</a></p>
+		</div>		
 		</section>
-		</div>
+		
 		<section id="contact">
 			<h2>Contact Me</h2>
 			<ul>
