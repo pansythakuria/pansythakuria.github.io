@@ -47,6 +47,7 @@
 				<li><p>Email: thakuriapansy@gmail.com</p></li>
 				<li><p><a href="https://www.linkedin.com/in/pansythakuria/" target="_blank">LinkedIn profile</a></p></li>
 				<li><p>Phone: 8638669512</p></li>
+				<li><p><a href="Pansy Thakuria Resume 2023.pdf" target="_blank">Download my resume</a></p></li>
 			</ul>
 		</section>
 	</main>
