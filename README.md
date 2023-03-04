@@ -3,21 +3,21 @@
 	<title>Pansy's Portfolio</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<style>
-#TH {
-  width: 100%;
-  padding: 10px 20px;
-  text-align: left;
-  background-color: lightgrey;
-  margin-top: 20px;
-}
-#VC {
-  width: 100%;
-  padding: 10px 20px;
-  text-align: left;
-  background-color: lightgrey;
-  margin-top: 20px;
-}
-</style>
+		#TH {
+ 		width: 100%;
+ 		padding: 10px 20px;
+  		text-align: left;
+  		background-color: lightgrey;
+  		margin-top: 20px;
+		}
+		#VC {
+  		width: 100%;
+  		padding: 10px 20px;
+  		text-align: left;
+  		background-color: lightgrey;
+  		margin-top: 20px;
+		}
+	</style>
 	<link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -62,33 +62,34 @@
 			</ul>
 			<h4>HR Toolkit</h4>
 			<p>A toolkit containing diverse and customizable templates of company policies, HR mails, interview questions, survey questionnaires, interview mails, hiring mails, etc. Organized, managed, and written by me. <a href="https://turbohire.co/hr-toolkit/" target="_blank">Check it out.</a></p>
-		</div>	
-        <h3>Vantage Cicle</h3>
-        <p>B2B | SaaS | A one-stop employee engagement and employee benefits platform</p>
-        <button onclick="myFunction2()">Show More</button>
+			</div>	
+			
+        	<h3>Vantage Cicle</h3>
+        	<p>B2B | SaaS | A one-stop employee engagement and employee benefits platform</p>
+       	 	<button onclick="myFunction2()">Show More</button>
 
-			<div id="VC">
-        <h3>Vantage Lens</h3>
-        <p>Vantage Circle recently launched a new product called "Vantage Lens", a workplace culture score generating platform.</p>
-        <p>How do I contribute?</p>
-        <ul>
-        	<li><p>Content strategy and planning with the SEO Team</p></li>
-            <li><p>Writing SEO-optmized employee-centric blogs</p></li>
-            <li><p>Update and track keywords on SEMrush, Google Search Console, and AHREF.</p></li>
-        <p><a href="https://www.vantagelens.com/blog/author/pansy/" target="_blank">View blogs</p>
-            
+		<div id="VC">
+        	<h4>Vantage Lens</h3>
+        	<p>Vantage Circle recently launched a new product called "Vantage Lens", a workplace culture score generating platform.</p>
+        	<p>How do I contribute?</p>
+        	<ul>
+        		<li><p>Content strategy and planning with the SEO Team</p></li>
+            		<li><p>Writing SEO-optmized employee-centric blogs</p></li>
+            		<li><p>Update and track keywords on SEMrush, Google Search Console, and AHREF.</p></li>
+        		<p><a href="https://www.vantagelens.com/blog/author/pansy/" target="_blank">View blogs</p>
+		</ul>
 		</div>
-		</section>
+	</section>
 		
-		<section id="contact">
-			<h2>Contact Me</h2>
-			<ul>
-				<li><p>Email: thakuriapansy@gmail.com</p></li>
-				<li><p><a href="https://www.linkedin.com/in/pansythakuria/" target="_blank">LinkedIn profile</a></p></li>
-				<li><p>Phone: 8638669512</p></li>
-				<li><p><a href="Pansy Thakuria Resume 2023.pdf" download>Download my resume</a></p></li>
-			</ul>
-		</section>
+	<section id="contact">
+		<h2>Contact Me</h2>
+		<ul>
+			<li><p>Email: thakuriapansy@gmail.com</p></li>
+			<li><p><a href="https://www.linkedin.com/in/pansythakuria/" target="_blank">LinkedIn profile</a></p></li>
+			<li><p>Phone: 8638669512</p></li>
+			<li><p><a href="Pansy Thakuria Resume 2023.pdf" download>Download my resume</a></p></li>
+		</ul>
+	</section>
 	<footer>
 		<p>Copyright © My Portfolio 2023.</p>
 	</footer>
