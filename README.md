@@ -16,29 +16,21 @@
   		text-align: left;
   		background-color: lightgrey;
   		margin-top: 20px;
-		}
-		div.sticky {
-  		position: -webkit-sticky;
-  		position: sticky;
-  		top: 0;
-  		background-color: lightgrey;
-  		padding: 20px;
-  		font-size: 20px;
-		}
+		
 	</style>
 	<link rel="stylesheet" href="style.css">
 </head>
 <body>
 	<header>
 		<h1>Hi, I'm Pansy.</h1>
-		<div class="sticky">
+		<nav>
 			<ul>
 				<p>Content:</p>
 				<li><a href="#about">About Me</a></li>
 				<li><a href="#workexperience">Work Experience</a></li>
 				<li><a href="#contact">Contact</a></li>
 			</ul>
-		</div>
+		</nav>
 	</header>
 	<main>
 		<section id="about">
