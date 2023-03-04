@@ -43,7 +43,7 @@
 			<h2>Work Experience</h2>
 			<h3>TurboHire</h3>
 				<p>B2B | SaaS | An AI-powered recruitment automation and applicant tracking platform</p>
-			<button onclick="myFunction1()">Show More</button>
+			<button onclick="myFunction1()">Hide/Show</button>
 
 			<div id="TH">
 			<h4>Best Blogs</h4>
@@ -66,7 +66,7 @@
 			
         	<h3>Vantage Cicle</h3>
         	<p>B2B | SaaS | A one-stop employee engagement and employee benefits platform</p>
-       	 	<button onclick="myFunction2()">Show More</button>
+       	 	<button onclick="myFunction2()">Hide/Show</button>
 
 			<div id="VC">
         		<h4>Vantage Lens</h4>
