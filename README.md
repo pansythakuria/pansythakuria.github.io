@@ -28,6 +28,9 @@
 			<h2>Work Experience</h2>
 			<h3>TurboHire</h3>
 				<p>B2B | SaaS | An AI-powered recruitment automation and applicant tracking platform</p>
+			<button onclick="myFunction()">Show More</button>
+
+			<div id="myDIV">
 			<h4>Best Blogs</h4>
 			<ul>
 				<li><p><a href="https://turbohire.co/resources/blog/step-by-step-guide-to-boolean-search-in-candidate-discovery-of-hiring/" target="_blank">Boolean Search in Recruitment</a></p></li>
@@ -45,6 +48,7 @@
 			<h4>HR Toolkit</h4>
 			<p>A toolkit containing diverse and customizable templates of company policies, HR mails, interview questions, survey questionnaires, interview mails, hiring mails, etc. Organized, managed, and written by me. <a href="https://turbohire.co/hr-toolkit/" target="_blank">Check it out.</a></p>
 		</section>
+		</div>
 		<section id="contact">
 			<h2>Contact Me</h2>
 			<ul>
@@ -58,5 +62,15 @@
 	<footer>
 		<p>Copyright © My Portfolio 2023.</p>
 	</footer>
+<script>
+function myFunction() {
+  var x = document.getElementById("myDIV");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+</script>
 </body>
 </html>
