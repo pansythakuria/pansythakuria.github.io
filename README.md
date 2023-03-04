@@ -68,20 +68,20 @@
         	<p>B2B | SaaS | A one-stop employee engagement and employee benefits platform</p>
        	 	<button onclick="myFunction2()">Show More</button>
 
-		<div id="VC">
-        	<h4>Vantage Lens</h3>
-        	<p>Vantage Circle recently launched a new product called "Vantage Lens", a workplace culture score generating platform.</p>
-        	<p>How do I contribute?</p>
-        	<ul>
-        		<li><p>Content strategy and planning with the SEO Team</p></li>
-            		<li><p>Writing SEO-optmized employee-centric blogs</p></li>
-            		<li><p>Update and track keywords on SEMrush, Google Search Console, and AHREF.</p></li>
-			<p><a href="https://www.vantagelens.com/blog/author/pansy/" target="_blank">View blogs</a></p>
-		</ul>
-		</div>
-	</section>
+			<div id="VC">
+        		<h4>Vantage Lens</h4>
+        		<p>Vantage Circle recently launched a new product called "Vantage Lens", a workplace culture score generating platform.</p>
+        		<p>How do I contribute?</p>
+        		<ul>
+        			<li><p>Content strategy and planning with the SEO Team</p></li>
+            			<li><p>Writing SEO-optmized employee-centric blogs</p></li>
+            			<li><p>Update and track keywords on SEMrush, Google Search Console, and AHREF.</p></li>
+				<p><a href="https://www.vantagelens.com/blog/author/pansy/" target="_blank">View blogs</a></p>
+			</ul>
+			</div>
+		</section>
 		
-	<section id="contact">
+		<section id="contact">
 		<h2>Contact Me</h2>
 		<ul>
 			<li><p>Email: thakuriapansy@gmail.com</p></li>
@@ -89,10 +89,10 @@
 			<li><p>Phone: 8638669512</p></li>
 			<li><p><a href="Pansy Thakuria Resume 2023.pdf" download>Download my resume</a></p></li>
 		</ul>
-	</section>
-	<footer>
-		<p>Copyright © My Portfolio 2023.</p>
-	</footer>
+		</section>
+		<footer>
+			<p>Copyright © My Portfolio 2023.</p>
+		</footer>
 <script>
 function myFunction1() {
   var x = document.getElementById("TH");
