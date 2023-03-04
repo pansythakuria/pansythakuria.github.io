@@ -76,7 +76,7 @@
         		<li><p>Content strategy and planning with the SEO Team</p></li>
             		<li><p>Writing SEO-optmized employee-centric blogs</p></li>
             		<li><p>Update and track keywords on SEMrush, Google Search Console, and AHREF.</p></li>
-        		<p><a href="https://www.vantagelens.com/blog/author/pansy/" target="_blank">View blogs</p>
+			<p><a href="https://www.vantagelens.com/blog/author/pansy/" target="_blank">View blogs</a></p>
 		</ul>
 		</div>
 	</section>
