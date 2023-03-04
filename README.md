@@ -3,11 +3,18 @@
 	<title>Pansy's Portfolio</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<style>
-#myDIV {
+#TH {
   width: 100%;
-  padding: 50px 0;
-  text-align: center;
-  background-color: lightblue;
+  padding: 10px 20px;
+  text-align: left;
+  background-color: lightgrey;
+  margin-top: 20px;
+}
+#VC {
+  width: 100%;
+  padding: 10px 20px;
+  text-align: left;
+  background-color: lightgrey;
   margin-top: 20px;
 }
 </style>
@@ -18,9 +25,8 @@
 		<h1>Hi, I'm Pansy.</h1>
 		<nav>
 			<ul>
-				<p>Scroll through the sections:</p>
-				<br>
-				<li><a href="#about">About</a></li>
+				<p>Content:</p>
+				<li><a href="#about">About Me</a></li>
 				<li><a href="#workexperience">Work Experience</a></li>
 				<li><a href="#contact">Contact</a></li>
 			</ul>
@@ -28,18 +34,18 @@
 	</header>
 	<main>
 		<section id="about">
-			<h2>About me</h2>
+			<h2>About Me</h2>
 			<p>I'm an engineer turned marketer with 2+ years of experience. With a lust for articulating my knowledge, I dove into the world of content. Writing has always been an escape in this overachieving world. My journey of writing began as I started freelancing during the pandemic and eversince, I have grown into a full-fledged content marketer.</p>
-			<br>
+			
 			<p>If you're looking for well-researched and converting content, we can work together to create the story of your brand. With the incoming of AI language models like ChatGPT, the demand for quality content rises. Especially, those that Google favor. </p>
 		</section>
 		<section id="workexperience">
 			<h2>Work Experience</h2>
 			<h3>TurboHire</h3>
 				<p>B2B | SaaS | An AI-powered recruitment automation and applicant tracking platform</p>
-			<button onclick="myFunction()">Show More</button>
+			<button onclick="myFunction1()">Show More</button>
 
-			<div id="myDIV">
+			<div id="TH">
 			<h4>Best Blogs</h4>
 			<ul>
 				<li><p><a href="https://turbohire.co/resources/blog/step-by-step-guide-to-boolean-search-in-candidate-discovery-of-hiring/" target="_blank">Boolean Search in Recruitment</a></p></li>
@@ -56,7 +62,21 @@
 			</ul>
 			<h4>HR Toolkit</h4>
 			<p>A toolkit containing diverse and customizable templates of company policies, HR mails, interview questions, survey questionnaires, interview mails, hiring mails, etc. Organized, managed, and written by me. <a href="https://turbohire.co/hr-toolkit/" target="_blank">Check it out.</a></p>
-		</div>		
+		</div>	
+        <h3>Vantage Cicle</h3>
+        <p>B2B | SaaS | A one-stop employee engagement and employee benefits platform</p>
+        <button onclick="myFunction2()">Show More</button>
+
+			<div id="VC">
+        <h3>Vantage Lens</h3>
+        <p>Vantage Circle recently launched a new product called "Vantage Lens", a workplace culture score generating platform.</p>
+        <p>How do I contribute?</p>
+        <ul>
+        	<li><p>Content strategy and planning with the SEO Team</p></li>
+            <li><p>Writing SEO-optmized employee-centric blogs</p></li>
+            <li><p>Update and track keywords on SEMrush, Google Search Console, and AHREF.</p></li>
+        <p><a href="https://www.vantagelens.com/blog/author/pansy/" target="_blank">View blogs</p>
+            
 		</section>
 		
 		<section id="contact">
@@ -73,12 +93,20 @@
 		<p>Copyright © My Portfolio 2023.</p>
 	</footer>
 <script>
-function myFunction() {
-  var x = document.getElementById("myDIV");
+function myFunction1() {
+  var x = document.getElementById("TH");
   if (x.style.display === "none") {
     x.style.display = "block";
   } else {
     x.style.display = "none";
+  }
+}
+function myFunction2() {
+  var y = document.getElementById("VC");
+  if (y.style.display === "none") {
+    y.style.display = "block";
+  } else {
+    y.style.display = "none";
   }
 }
 </script>
