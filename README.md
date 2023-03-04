@@ -1,15 +1,17 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>My Portfolio</title>
+	<title>Pansy's Portfolio</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" href="style.css">
 </head>
 <body>
 	<header>
-		<h1>My Portfolio</h1>
+		<h1>Hi, I'm Pansy.</h1>
 		<nav>
 			<ul>
+				<li>Scroll through the sections:</li>
+				<br>
 				<li><a href="#about">About</a></li>
 				<li><a href="#projects">Projects</a></li>
 				<li><a href="#contact">Contact</a></li>
