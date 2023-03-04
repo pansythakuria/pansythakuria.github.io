@@ -12,7 +12,7 @@
 				<p>Scroll through the sections:</p>
 				<br>
 				<li><a href="#about">About</a></li>
-				<li><a href="#projects">Projects</a></li>
+				<li><a href="#workexperience">Work Experience</a></li>
 				<li><a href="#contact">Contact</a></li>
 			</ul>
 		</nav>
@@ -24,13 +24,19 @@
 			<br>
 			<p>If you're looking for well-researched and converting content, we can work together to create the story of your brand. With the incoming of AI language models like ChatGPT, the demand for quality content rises. Especially, those that Google favor. </p>
 		</section>
-		<section id="projects">
-			<h2>Projects</h2>
+		<section id="workexperience">
+			<h2>Work Experience</h2>
+			<h3>TurboHire</h3>
+				<p>B2B | SaaS | An AI-powered recruitment automation and applicant tracking platform</p>
+				<br>
+			<h4>Best Blogs</h4>
 			<ul>
-				<li>
-					<h3>Project 1</h3>
-					<p>Insert a brief description of your project here.</p>
-				</li>
+				<li><p><a href="https://turbohire.co/resources/blog/step-by-step-guide-to-boolean-search-in-candidate-discovery-of-hiring/" target="_blank">Boolean Search in Recruitment</a></p></li>
+				<li><p><a href="https://turbohire.co/resources/blog/what-is-candidate-calibration-in-screening-stage-of-hiring/" target="_blank">Candidate Calibration in Hiring</a></p></li>
+				<li><p><a href="https://turbohire.co/resources/blog/what-is-automated-one-way-interview-how-to-automate-interviews/" target="_blank">Automated One-Way Interview in Hiring</a></p></li>
+				<li><p><a href="https://turbohire.co/resources/author/pansy/" target="_blank">View other blogs</a></p></li>
+			</ul>
+			<ul>
 				<li>
 					<h3>Project 2</h3>
 					<p>Insert a brief description of your project here.</p>
