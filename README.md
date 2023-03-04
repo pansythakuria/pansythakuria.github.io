@@ -1,10 +1,8 @@
 # pansythakuria.github.io
 <!DOCTYPE html>
 <html>
-<head>
-	<title>Hello World</title>
-</head>
+
 <body>
-	<h1>Hello, World!</h1>
+	<h1>Hi, I'm Pansy. Welcome to my portfolio</h1>
 </body>
 </html>
