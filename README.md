@@ -77,6 +77,7 @@
             <li><p>Update and track keywords on SEMrush, Google Search Console, and AHREF.</p></li>
         <p><a href="https://www.vantagelens.com/blog/author/pansy/" target="_blank">View blogs</p>
             
+		</div>
 		</section>
 		
 		<section id="contact">
@@ -88,7 +89,6 @@
 				<li><p><a href="Pansy Thakuria Resume 2023.pdf" download>Download my resume</a></p></li>
 			</ul>
 		</section>
-	</main>
 	<footer>
 		<p>Copyright © My Portfolio 2023.</p>
 	</footer>
@@ -110,5 +110,6 @@ function myFunction2() {
   }
 }
 </script>
+</main>
 </body>
 </html>
